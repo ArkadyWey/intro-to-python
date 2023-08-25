@@ -177,7 +177,7 @@ else:
 
 print("The score is: " + "MUN " + str(man_utd) + "-" + str(man_city) + " MNC")
 
-# 13. While loops 
+# 12. While loops 
 
 i = 0
 while i < 10:
@@ -185,7 +185,7 @@ while i < 10:
     i = i+1
 
 
-# 14. Exercise: Make it so we record the score once a minute:
+# 13. Exercise: Make it so we record the score once a minute:
 
 man_utd = 0
 man_city = 0
@@ -209,7 +209,7 @@ while minute <=10:
 
 
 
-# 15. For loops 
+# 14. For loops 
 
 for i in [1,2,3,4,5]:
     print(i)
@@ -225,7 +225,7 @@ for i,name in enumerate(names):
     print("The name at position " + str(i) + " in the list is " + name)
 
 
-# 16. Exercise: Use a for loop to reconstruct the score code 
+# 15. Exercise: Use a for loop to reconstruct the score code 
 
 man_utd = 0
 man_city = 0
