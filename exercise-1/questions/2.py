@@ -1,0 +1,2 @@
+# Write a Python program that calculates the area of a circle based on the radius entered by the user
+# Hint: Use the input function we discussed in the session, and beware of types and conversions between them!
